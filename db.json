@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "expenseName": "Gaming chair",
+      "category": "Home",
+      "date": "2024-03-29",
+      "amount": "6000",
+      "getTime": "4/11/2024 12:50:26 PM",
+      "createdBy": "me",
+      "id": 16
+    },
+    {
+      "expenseName": "RichDaddyPoorDaddy",
+      "category": "Books",
+      "date": "2024-03-22",
+      "amount": "120",
+      "getTime": "4/11/2024 12:53:24 PM",
+      "createdBy": "me",
+      "id": 17
+    }
+  ]
+}
